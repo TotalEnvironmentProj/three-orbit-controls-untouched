@@ -558,10 +558,11 @@ module.exports = function(THREE) {
 
 		function onMouseUp( /* event */ ) {
 
-			if ( scope.enabled === false ) return;
-
 			document.removeEventListener( 'mousemove', onMouseMove, false );
 			document.removeEventListener( 'mouseup', onMouseUp, false );
+
+			if ( scope.enabled === false ) return;
+
 			scope.dispatchEvent( endEvent );
 			state = STATE.NONE;
 
