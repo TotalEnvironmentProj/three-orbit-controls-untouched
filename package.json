@@ -1,5 +1,5 @@
 {
-  "name": "three-orbit-controls",
+  "name": "three-orbit-controls-untouched",
   "version": "72.2.0",
   "description": "orbit controls for ThreeJS",
   "main": "index.js",
@@ -32,10 +32,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mattdesl/three-orbit-controls.git"
+    "url": "git://github.com/TotalEnvironmentProj/three-orbit-controls-untouched.git"
   },
-  "homepage": "https://github.com/mattdesl/three-orbit-controls",
+  "homepage": "https://github.com/TotalEnvironmentProj/three-orbit-controls-untouched",
   "bugs": {
-    "url": "https://github.com/mattdesl/three-orbit-controls/issues"
+    "url": "https://github.com/TotalEnvironmentProj/three-orbit-controls-untouched/issues"
   }
 }
